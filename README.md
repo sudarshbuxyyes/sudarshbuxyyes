@@ -1,4 +1,4 @@
-### Hi there 👋
+![](buxy.gif)
 
 [![Sudarshan's GitHub stats](https://github-readme-stats.vercel.app/api?username=sudarshbuxyyes&count_private=true&show_icons=true&theme=dracula)](https://github.com/sudarshbuxyyes/github-readme-stats)
 
