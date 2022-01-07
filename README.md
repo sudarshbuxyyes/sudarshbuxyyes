@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-[![Sudarshan's GitHub stats](https://github-readme-stats.vercel.app/api?username=sudarshbuxyyes&count_private=true)](https://github.com/sudarshbuxyyes/github-readme-stats)
+[![Sudarshan's GitHub stats](https://github-readme-stats.vercel.app/api?username=sudarshbuxyyes&count_private=true&show_icons=true&theme=dracula)](https://github.com/sudarshbuxyyes/github-readme-stats)
 <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 **sudarshbuxyyes/sudarshbuxyyes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
