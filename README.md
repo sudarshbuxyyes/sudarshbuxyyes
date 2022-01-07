@@ -2,7 +2,7 @@
 
 [![Sudarshan's GitHub stats](https://github-readme-stats.vercel.app/api?username=sudarshbuxyyes&count_private=true&show_icons=true&theme=dracula)](https://github.com/sudarshbuxyyes/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sudarshbuxyyes&theme=dracula&compact=true)](https://github.com/sudarshbuxyyes/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sudarshbuxyyes&theme=dracula)](https://github.com/sudarshbuxyyes/github-readme-stats)
 
 [![Sudarshan's programming stats](https://github-readme-stats.vercel.app/api/wakatime?username=sudarshbuxyyes&theme=dracula)](https://github.com/sudarshbuxyyes/github-readme-stats)
 <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true)
